@@ -1,0 +1,5 @@
+Herramientas utilizadas
+React + ViteJS
+useGSAP, React Three, Library
+Tailwind CSS
+Sentry for data tracking
